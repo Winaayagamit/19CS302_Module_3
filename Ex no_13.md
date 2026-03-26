@@ -13,9 +13,7 @@ To write a C program to read the elements and print only the odd elements in the
 7. End.
 ## Program:
 ```
-program to read the elements and print only the odd elements in the 2D array
-Developed by Dharshini M
-Register number:212222060044
+
 #include<stdio.h> 
 int main()
 {
